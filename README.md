@@ -10,10 +10,11 @@ The following project aims to create a functioning online calculator by the use 
 -   Implementation Plan
 
 ## Inspiration/Styling
-<figure>
-<figcaption>Inspiration Image</figcaption>
-<img src="./imgs/inspiration.png" alt="inspiration image" />
-</figure>
+![](imgs/inspiration.png)
+Inspiration Image
+
+![](imgs/styledcalc.png)
+Chosen Design
 
 <figure>
 <figcaption>Chosen Design</figcaption>
