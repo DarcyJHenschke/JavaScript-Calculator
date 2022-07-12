@@ -12,12 +12,12 @@ The following project aims to create a functioning online calculator by the use 
 ## Inspiration/Styling
 <figure>
 <figcaption>Inspiration Image</figcaption>
-<img src="./img/inspiration.png" alt="inspiration image" />
+<img src="./imgs/inspiration.png" alt="inspiration image" />
 </figure>
 
 <figure>
 <figcaption>Chosen Design</figcaption>
-<img src="./img/styledcalc.png" alt="Chosen Design" />
+<img src="./imgs/styledcalc.png" alt="Chosen Design" />
 </figure>
 
 ## coding Stack
@@ -39,7 +39,7 @@ The followiung is a generalised plan to help structure the javascript required t
 3. write the code that leaves displays empty when no buttons have been input or clear button has been used. 
 4. write the code that prevents the displaying of the number or operator when an impossible operation has occured.
 
-Prevention of undesired scenarios:
+**Prevention of undesired scenarios:**
 1. write the necessary code which prevents multiple decimal points from occuring
 2. write the code which allows a max limit of number size and or equation size input (10 characters maximum)
 3. write the code which converts outputted large numbers into exponential form when they breach the maximum character limit
