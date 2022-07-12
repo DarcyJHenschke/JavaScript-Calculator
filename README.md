@@ -10,11 +10,16 @@ The following project aims to create a functioning online calculator by the use 
 -   Implementation Plan
 
 ## Inspiration/Styling
-![](imgs/inspiration.png)
-Inspiration Image
+<figure>
+<figcaption>Inspiration Image</figcaption>
+<img src="./img/inspiration.png" width="300px"/>
+</figure>
 
-![](imgs/styledcalc.png)
-Chosen Design
+<figure>
+<figcaption>Live Design</figcaption>
+<img src="./img/styledcalc.png" width="300px"/>
+</figure>
+
 
 
 ## coding Stack
