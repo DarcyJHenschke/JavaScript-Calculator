@@ -12,12 +12,12 @@ The following project aims to create a functioning online calculator by the use 
 ## Inspiration/Styling
 <figure>
 <figcaption>Inspiration Image</figcaption>
-<img src="./img/inspiration.png" width="300px"/>
+<img src="./imgs/inspiration.png" width="300px"/>
 </figure>
 
 <figure>
 <figcaption>Live Design</figcaption>
-<img src="./img/styledcalc.png" width="300px"/>
+<img src="./imgs/styledcalc.png" width="300px"/>
 </figure>
 
 
