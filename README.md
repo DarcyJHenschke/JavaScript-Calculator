@@ -16,10 +16,6 @@ Inspiration Image
 ![](imgs/styledcalc.png)
 Chosen Design
 
-<figure>
-<figcaption>Chosen Design</figcaption>
-<img src="./imgs/styledcalc.png" alt="Chosen Design" />
-</figure>
 
 ## coding Stack
 - Javascript
