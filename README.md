@@ -32,7 +32,7 @@ The followiung is a generalised plan to help structure the javascript required t
 
 **Concatenation of buttons or html elements (divs) to required function/output when clicked:**
 1. write the necessary javascript that allows elements in the HTML (buttons which in this case are divs) to be clicked
-2. write the necessary code that concatenates the button number or operator to perform its desired function
+2. write the necessary code that concatenates the button number or operator to perform its desired function when clicked
 3. write the necessary code to store these numbers or operators in memory until the clear button is pressed
 
 **Concatenation of clicking buttons causing content to be generated in the display:**
