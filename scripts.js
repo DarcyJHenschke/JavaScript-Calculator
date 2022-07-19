@@ -39,7 +39,7 @@ function evaluate() {
     if (
         buttonText === "x" ||
         buttonText === "÷" ||
-        buttonText === "÷" ||
+        buttonText === "+" ||
         buttonText === "-"
     ) {
         output.textContent += buttonText;
