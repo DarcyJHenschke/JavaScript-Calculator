@@ -12,6 +12,38 @@ body {
     width: 400px;
     font-family: Arial, Helvetica, sans-serif;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    overflow: scroll;
+}
+.output-wrapper {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    width: 400px;
+    height: 60px;
+    overflow: scroll;
+}
+
+.result-wrapper {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    width: 400px;
+    height: 80px;
+    overflow: scroll;
+}
+
+.output {
+    font-size: 20px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    overflow: scroll;
+}
+
+.result {
+    font-size: 45px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    overflow: scroll;
 }
 
 .calculator__screen {
@@ -23,6 +55,7 @@ body {
 }
 
 .screen {
+    overflow: scroll;
     &__calculation {
         height: 60px;
         width: 400px;
