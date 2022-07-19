@@ -11,6 +11,8 @@ buttons.forEach((button) => {
 // this will be used to count the number of decimals in the output screen
 let decimalCounter = 0;
 
+result.innerText = 0;
+
 function evaluate() {
     // (this) refers to the button being clicked hence the inner text of the button be clicked is targeted here
     let buttonText = this.innerText;
