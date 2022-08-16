@@ -2,9 +2,12 @@
 
 ## Table of Contents
 
+-   Project Descriptiom
 -   Inspiration and Chosen Styling
 -   Coding Stack
--   Implementation Plan
+-   Approach
+-   Challenges
+-   Additions
 
 ## Project description
 
