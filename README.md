@@ -1,7 +1,16 @@
 # JavaScript-Calculator
 
 ## Project description
-The following project aims to create a functioning online calculator by the use of JavaScript, HTML and CSS
+Outline
+Create a README.md on your Calculator repository that includes a picture of the design you will be reproducing
+Using HTML + SCSS, recreate the design that you chose
+In the README.md add a breakdown of your project for the JavaScript part of the code. We encourage you to be as granular as possible. const scope3 = () => { const scope3Var = "123"; }
+MVP
+Create a calculator to be rendered to the html page
+it should have number keys from 0 to 9const scope3 = () => { const scope3Var = "123"; }
+It should have operator keys (+, -, /, *, =)
+It should have a display rendering the current calculation in a box at the top
+It should also have a “.” key
 
 ## Table of Contents
 
