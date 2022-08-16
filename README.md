@@ -44,6 +44,8 @@
 
 To access the live demo please click here:
 
+🔗 [Live Demo](https://darcyjhenschke.github.io/JavaScript-Calculator/)
+
 ## Approach
 
 The follwoing explains the way I approached this project:
